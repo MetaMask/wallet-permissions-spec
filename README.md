@@ -13,6 +13,13 @@ This is a very young repository, so it definitely has room to grow and expand it
 
 Items in this folder will be named the same as the method they specify, with a filetype suffix (like `.md`).
 
+These files should include:
+
+- The method name
+- A human readable description of what the method does, as could be presented to a user at the time of login.
+- Any additional context that could be helpful to why this permission is useful.
+- Optional sample implementation.
+
 ### Caveats
 
 Items in the `caveats` folder will be named the same as that caveat's valid `type` value.
